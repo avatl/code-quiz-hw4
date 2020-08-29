@@ -3,19 +3,19 @@ body {
     font-size: 120%;
   }
   a {
-    color:lightblue;
+    color:#e4bfff;
     text-decoration: none;
     transition: color 0.1s;
   }
   a:hover {
-    color:lightblue;
+    color:#e4bfff;
   }
   button {
     display: inline-block;
     margin: 5px;
     cursor: pointer;
     font-size: 100%;
-    background-color: lightblue;
+    background-color: #e4bfff;
     border-radius: 5px;
     padding: 2px 10px;
     color: white;
@@ -23,7 +23,7 @@ body {
     transition: background-color 0.1s;
   }
   button:hover {
-    background-color: lightblue;
+    background-color: #e4bfff;
   }
   .choices button {
     display: block;
