@@ -1,44 +1,35 @@
 // list of all questions, choices, and answers
 var questions = [
     {
-      title: "What does CSS stand for?",
-      choices: ["Corporate Style Selector", "Code Style Sheet", "Control System Sensitive", "Cascading Style Sheet"],
-      answer: "Cascading Style Sheet"
+      title: "Commonly used data types DO NOT include:",
+      choices: ["strings", "booleans", "alerts", "numbers"],
+      answer: "alerts"
     },
     {
-      title: "How must an HTML file begin?",
-      choices: ["<head>", "<body>", "<!DOCTYPE>’", "No standard start code"],
-      answer: "<!DOCTYPE>’"
+      title: "The condition in an if / else statement is enclosed within ____.",
+      choices: ["quotes", "curly brackets", "parentheses", "square brackets"],
+      answer: "parentheses"
     },
     {
-      title: "What is the purpose of Javascript?",
+      title: "Arrays in JavaScript can be used to store ____.",
       choices: [
-        "To format content on a webpage",
-        "To create dynamic web applications",
-        "To write content for a webpage’",
-        "None of the above"
+        "numbers and strings",
+        "other arrays",
+        "booleans",
+        "all of the above"
       ],
-      answer: "To create dynamic web applications"
-    },
-    {
-      title: "What is the purpose of CSS",
-      choices: [
-        "To format content on a webpage",
-        "To create dynamic web applications",
-        "To write content for a webpage’",
-        "All of the above"
-      ],
-      answer: "To format content on a webpage"
+      answer: "all of the above"
     },
     {
       title:
-        "In JavaScript, what does the = signify?",
-      choices: [
-            ‘“Is equal to”’,
-            ‘A variable’,
-            ‘An assignment’,
-            ‘An equation’
-        ],
-      answer: "An assignment"
+        "String values must be enclosed within ____ when being assigned to variables.",
+      choices: ["commas", "curly brackets", "quotes", "parentheses"],
+      answer: "quotes"
+    },
+    {
+      title:
+        "A very useful tool used during development and debugging for printing content to the debugger is:",
+      choices: ["JavaScript", "terminal / bash", "for loops", "console.log"],
+      answer: "console.log"
     }
   ];
