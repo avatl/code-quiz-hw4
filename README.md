@@ -4,4 +4,7 @@ In this assignment, I challenged my own skills while creating a quiz to test oth
 
 ![image](https://github.com/avatl/code-quiz-hw4/issues/1#issue-688633917)
 
+screenshot examples:
 https://github.com/avatl/code-quiz-hw4
+
+live link: https://avatl.github.io/code-quiz-hw4/
