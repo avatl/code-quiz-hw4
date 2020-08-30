@@ -1,35 +1,85 @@
-// list of all questions, choices, and answers
-var questions = [
+// array of questions
+var questions=[
     {
-      title: "Commonly used data types DO NOT include:",
-      choices: ["strings", "booleans", "alerts", "numbers"],
-      answer: "alerts"
+        title: "What does CSS stand for?",
+        // possible answers
+        choices: [
+            "Corporate Style Selector",
+            "Code Style Sheet",
+            "Control System Sensitive",
+            "Cascading Style Sheet"
+        ],
+        // correct answer
+        answer: "Cascading Style Sheet"
     },
     {
-      title: "The condition in an if / else statement is enclosed within ____.",
-      choices: ["quotes", "curly brackets", "parentheses", "square brackets"],
-      answer: "parentheses"
+        title: "How must an HTML file begin?",
+        choices: [
+            "<head>",
+            "<body>",
+            "<!DOCTYPE>",
+            "No standard start code"
+        ],
+        answer: "<!DOCTYPE>"
     },
     {
-      title: "Arrays in JavaScript can be used to store ____.",
-      choices: [
-        "numbers and strings",
-        "other arrays",
-        "booleans",
-        "all of the above"
-      ],
-      answer: "all of the above"
+        title: "What is the purpose of Javascript?",
+        choices: [
+            "To format content on a webpage",
+            "To create dynamic web applications",
+            "To write content for a webpage",
+            "None of the Above"
+        ],
+        answer: "To create dynamic web applications"
     },
     {
-      title:
-        "String values must be enclosed within ____ when being assigned to variables.",
-      choices: ["commas", "curly brackets", "quotes", "parentheses"],
-      answer: "quotes"
+        title: "What is the purpose of CSS",
+        choices: [
+            "To format content on a webpage",
+            "To create dynamic web applications",
+            "To write content for a webpage",
+            "All of the Above"
+        ],
+        answer: "To format content on a webpage"
     },
     {
-      title:
-        "A very useful tool used during development and debugging for printing content to the debugger is:",
-      choices: ["JavaScript", "terminal / bash", "for loops", "console.log"],
-      answer: "console.log"
+        title: "In JavaScript, what does the = signify?",
+        choices: [
+            "Is equal to",
+            "A variable",
+            "An assignment",
+            "An equation"
+        ],
+        answer: "An assignment"
+    },
+    {
+        title: "What does HTML stand for?",
+        choices: [
+            "HyperText Markup Language",
+            "Help Tim Make Lunch",
+            "HyperTrophic Markup Language",
+            "HyperText Material Language"
+        ],
+        answer: "HyperText Markup Language"
+    },
+    {
+        title: "What is the expression that prints content to a debugger?",
+        choices: [
+            "Google",
+            "Chrome.log",
+            "Inspect",
+            "Console.log"
+        ],
+        answer: "Console.log"
+    },
+    {
+        title: "How must a CSS file begin?",
+        choices: [
+            "Stylesheet",
+            "<!DOCTYPE>",
+            "Style.css>",
+            "None of the above"
+        ],
+        answer: "None of the above"
     }
-  ];
+]
