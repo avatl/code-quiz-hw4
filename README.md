@@ -1,9 +1,10 @@
 # Code Quiz Challenge
 
-In this assignment, I challenged my own skills while creating a quiz to test other people on their knowledge on coding. This homework was difficult but it was also good to test myself on my JavaScript and jQuery skills. I enjoyed this assignment although it was hard. 
+In this assignment, I challenged my own skills while creating a quiz to test other people on their knowledge on coding. This quiz was done with JavaScript, jQuery, HTML, and CSS.
 
+<img src="Assets/cq1.png">
+<img src="Assets/cq2.png">
+<img src="Assets/cq3.png">
+<img src="Assets/cq4.png">
 
-screenshot examples:
-https://github.com/avatl/code-quiz-hw4
-
-live link: https://avatl.github.io/code-quiz-hw4/
+Live Link: https://avatl.github.io/code-quiz-hw4/
